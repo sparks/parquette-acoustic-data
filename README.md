@@ -14,7 +14,7 @@ Data sets
 3. a fine grid over the 2nd window - room middle - every 30cm with 7 points 2 above and one at the rim below vertically Naming scheme fine-v-{signal}-{y} (y bottom to top).
 4. AB measurement on bathroom vent bathroom-close / bathroom-far measured direct at each vent and 30cm above
 5. A set of specific position reference measurements annotated in drawings as ref-{signal}-{letter}
-6. A set of individual speaker configs takes at the second window center speaker-{signal}-{speaker} where {speaker} is tf, tf, sf, sfe, sr (t/s = sub), (f/r = front/rear), (e = endfield also firing for the sub in question). Note the front subs are mono so there's no l/r
+6. A set of individual speaker configs takes at the second window center (0-3) speaker-{signal}-{speaker} where {speaker} is tf, tf, sf, sfe, sr (t/s = sub), (f/r = front/rear), (e = endfield also firing for the sub in question). Note the front subs are mono so there's no l/r
 Done at ref A at alsa 45pct some wind
 7. Reference inside measurements take at the rough room center and room front (measurements to be noted) inside-{center/front}. Inside front is room center (l/r center and 8m or so front and back). Center is speaker center
 
